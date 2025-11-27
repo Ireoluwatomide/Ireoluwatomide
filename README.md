@@ -1,270 +1,189 @@
 <div align="center">
 
-<!-- Matrix Rain Background -->
-<img src="https://raw.githubusercontent.com/ireoluwatomide/ireoluwatomide/main/assets/matrix-rain.svg" width="100%" height="200" alt="Matrix Rain" />
+# MARVELLOUS AKOMOLAFE
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ███╗   ███╗ █████╗ ██████╗ ██╗   ██╗███████╗██╗     ██╗      ██████╗  ║
-║   ████╗ ████║██╔══██╗██╔══██╗██║   ██║██╔════╝██║     ██║     ██╔═══██╗ ║
-║   ██╔████╔██║███████║██████╔╝██║   ██║█████╗  ██║     ██║     ██║   ██║ ║
-║   ██║╚██╔╝██║██╔══██║██╔══██╗╚██╗ ██╔╝██╔══╝  ██║     ██║     ██║   ██║ ║
-║   ██║ ╚═╝ ██║██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗███████╗╚██████╔╝ ║
-║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝ ╚═════╝  ║
-║                                                                           ║
-║            [ DATA ENGINEER ] [ PIPELINE ARCHITECT ] [ v5.2025 ]          ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+### Data Engineer • Pipeline Architect
 
-```
-
-</div>
-
-```bash
-marvellous@github:~$ ./profile --status
-```
-
-<div align="center">
-
-```
-┌─────────────────────[ SYSTEM STATUS ]─────────────────────┐
-│                                                            │
-│  Uptime         : 5+ years in production                  │
-│  Architecture   : Distributed | Scalable | Real-time      │
-│  Last Deploy    : Pipeline processing 10M events/day      │
-│  Status         : 🟢 All systems operational              │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+<p>
+  <a href="https://linkedin.com/in/marvellous-akomolafe"><img src="https://img.shields.io/badge/-Lagos,_Nigeria-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Location"/></a>
+  <a href="mailto:akomolafemarvellous@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/marvellous-akomolafe"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ireoluwatomide&color=2563EB&style=flat&label=Views" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-```bash
-marvellous@github:~$ whoami
-```
+<div align="center">
+
+## 💼 AT A GLANCE
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### 📊 IMPACT
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+enterprise-scale+data+platforms;Processing+millions+of+events+in+real-time;Architecting+fault-tolerant+pipelines;Optimizing+for+sub-second+latency)](https://git.io/typing-svg)
+**10M+**
+events/day
+
+**99.9%**
+uptime
+
+**40%**
+efficiency ↑
+
+**5+ years**
+production
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ STACK
+
+<div align="center">
+
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 ACTIVITY
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ireoluwatomide&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1F2937&icon_color=10B981&hide=contribs&count_private=true&custom_title=Stats)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=ireoluwatomide&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=10B981&currStreakLabel=1F2937&dates=6B7280)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 FEATURED WORK
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Real-time IoT Platform
+
+**AWS • Spark • Kubernetes**
+
+Enterprise-scale processing for Smart City infrastructure. Hybrid cloud architecture with auto-scaling, processing 10M+ events daily.
+
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Global Talent Analytics
+
+**Airflow • Superset • Multi-region**
+
+Scalable analytics platform serving 20+ countries with real-time dashboards. 90% reduction in report generation time.
+
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Superset](https://img.shields.io/badge/-Superset-20A6C9?style=flat&logo=apache-superset&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Census Data Engine
+
+**Hadoop • PySpark • Hive**
+
+Large-scale demographic analysis processing 100GB+ datasets. 5x query performance improvement through optimization.
+
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ CLOAK Infrastructure
+
+**Terraform • Docker • K8s**
+
+Infrastructure-as-code automation solution. 50% reliability improvement through automated deployments.
+
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎓 CERTIFICATIONS
+
+</div>
+
+<div align="center">
+
+| Certification | Provider | Year | Status |
+|:---|:---:|:---:|---:|
+| Professional Data Engineer | Google Cloud | 2025 | 🔄 In Progress |
+| DAG Authoring for Apache Airflow | Astronomer | 2022 | ✓ |
+| Azure Data Fundamentals | Microsoft | 2021 | ✓ |
+| Azure AI Fundamentals | Microsoft | 2021 | ✓ |
+| Associate Big Data Engineer | DASCA | 2020 | ✓ |
+| SQL for Data Science | Coursera | 2020 | ✓ |
 
 </div>
 
 ---
 
-```bash
-marvellous@github:~$ ./skills --matrix
-```
-
 <div align="center">
 
-```
-                    ╔═══════════════╗
-                    ║   EXPERTISE   ║
-                    ╚═══════╤═══════╝
-                           │
-        ┌──────────────────┼──────────────────┐
-        ▼                  ▼                  ▼
-
-   [ STREAMING ]      [ PROCESSING ]     [ INFRASTRUCTURE ]
-   ═════════════      ══════════════     ═════════════════
-   Apache Kafka       Apache Spark       Kubernetes
-   ████████████ 95%   ████████████ 92%   ███████████░ 90%
-
-   Apache Airflow     dbt                Docker
-   ████████████ 98%   ███████████░ 88%   ████████████ 96%
-
-   Kafka Streams      PySpark            Terraform
-   ███████████░ 90%   ████████████ 94%   ███████████░ 89%
-```
+![Snake Animation](https://raw.githubusercontent.com/ireoluwatomide/ireoluwatomide/output/snake.svg)
 
 </div>
 
 ---
 
-```bash
-marvellous@github:~$ cat achievements.log
-```
-
 <div align="center">
-
-```
-╔════════════════════[ ACHIEVEMENT UNLOCKED ]═══════════════════╗
-║                                                                ║
-║  🏆 LVL 42 DATA WIZARD                                        ║
-║  ████████████████████████████████████░░░░░░ 87% to LVL 43    ║
-║                                                                ║
-║  📊 Stats Processed    : 1.2 Billion                          ║
-║  ⚡ Pipelines Built    : 127                                  ║
-║  🚀 Latency Achieved   : <100ms                               ║
-║  👥 Engineers Mentored : 15+                                  ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
+<sub>Building scalable data platforms for intelligent decision-making</sub>
 </div>
-
----
-
-```bash
-marvellous@github:~$ ls -la projects/
-```
-
-<div align="center">
-
-```
-drwxr-xr-x  5 marvellous  staff   160B  Nov 27 14:32  .
-drwxr-xr-x  8 marvellous  staff   256B  Nov 27 14:32  ..
--rwxr-xr-x  1 marvellous  staff   10.2M Nov 27 14:32  realtime-iot-platform*
--rwxr-xr-x  1 marvellous  staff   8.7M  Nov 27 14:32  global-talent-analytics*
--rwxr-xr-x  1 marvellous  staff   12.1M Nov 27 14:32  census-data-engine*
-```
-
-<details>
-<summary><b>$ ./realtime-iot-platform --info</b></summary>
-
-```
-┌──────────────[ REALTIME IoT DATA PLATFORM ]──────────────┐
-│                                                           │
-│  Stack    : AWS + Spark + Kubernetes                     │
-│  Scale    : 10M+ events/day                              │
-│  Features : • Hybrid cloud architecture                  │
-│            • Auto-scaling for traffic spikes             │
-│            • S3 → Glue → Redshift → Athena              │
-│  Status   : 🟢 Production | 99.9% uptime                │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-<details>
-<summary><b>$ ./global-talent-analytics --info</b></summary>
-
-```
-┌─────────────[ GLOBAL TALENT ANALYTICS ]──────────────────┐
-│                                                           │
-│  Stack    : Airflow + Superset + Multi-region            │
-│  Coverage : 20+ countries                                │
-│  Features : • Real-time dashboards                       │
-│            • Comprehensive ETL pipelines                 │
-│            • Distributed infrastructure                  │
-│  Impact   : 90% reduction in report generation time      │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-<details>
-<summary><b>$ ./census-data-engine --info</b></summary>
-
-```
-┌──────────────[ CENSUS DATA PLATFORM ]────────────────────┐
-│                                                           │
-│  Stack    : Hadoop + PySpark + Hive                      │
-│  Dataset  : US Census Bureau (100GB+)                    │
-│  Features : • Optimized Hive warehouse                   │
-│            • Complex analytical queries                  │
-│            • Socioeconomic insights                      │
-│  Result   : 5x query performance improvement             │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-</details>
-
----
-
-```bash
-marvellous@github:~$ tail -f activity.log
-```
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ireoluwatomide&theme=matrix&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&dates=00FF00&sideLabels=00FF00&currStreakNum=00FF00&sideNums=00FF00)
-
-</div>
-
----
-
-```bash
-marvellous@github:~$ htop
-```
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ireoluwatomide&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwatomide&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00"/>
-</div>
-
----
-
-```bash
-marvellous@github:~$ ./connect --social
-```
-
-<div align="center">
-
-```
-┌────────────────[ ESTABLISH CONNECTION ]──────────────────┐
-│                                                           │
-│  [1] LinkedIn  : marvellous-akomolafe                    │
-│  [2] Email     : akomolafemarvellous@gmail.com          │
-│  [3] Location  : Lagos, Nigeria 🌍                       │
-│                                                           │
-│  Select option or press CTRL+C to exit...               │
-└───────────────────────────────────────────────────────────┘
-```
-
-[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvellous-akomolafe)
-[![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akomolafemarvellous@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=ireoluwatomide&color=00FF00&style=flat-square&label=Profile+Scans)](https://github.com/ireoluwatomide)
-
-</div>
-
----
-
-```bash
-marvellous@github:~$ sudo cat /etc/motd
-```
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   🐍 CONTRIBUTION MATRIX                                 ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-![Snake animation](https://raw.githubusercontent.com/ireoluwatomide/ireoluwatomide/output/snake.svg)
-
-</div>
-
----
-
-```bash
-marvellous@github:~$ exit
-```
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║          Building scalable data platforms                ║
-║         that power intelligent decisions                 ║
-║                                                           ║
-║                    [ SESSION ENDED ]                     ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&animation=twinkling" width="100%" />
-
-</div>
-
-<!-- Easter Egg: Try Konami Code ↑↑↓↓←→←→BA -->
-<!-- Matrix Rain Animation Generator: github.com/ireoluwatomide/matrix-rain -->
