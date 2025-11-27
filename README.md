@@ -10,28 +10,25 @@
 
 ---
 
-<div align="center">
-
-### 💡 About Me
-
-</div>
-
-> Seasoned Data Engineer with 5+ years building scalable, robust data platforms on both on-premise and cloud infrastructure, handling large volumes of daily transactions. Passionate about designing high-throughput ETL pipelines, streaming architectures, and data governance frameworks that power ML-driven insights and business intelligence.
-
----
-
-## 🚀 About
+## 👨‍💻 About
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-- 🔭 Currently working at **ParallelScore Inc.** as a Data Software Engineer
-- 💼 Built enterprise-grade real-time data processing infrastructure handling **300k+ daily events** with sub-second latency
-- 📊 Designed comprehensive data governance frameworks ensuring **99.9% pipeline reliability**
-- 🌱 Architected scalable solutions supporting **10x data volume growth**
-- 👨‍🏫 Leading cross-functional technical teams and mentoring engineers
-- ⚡ Fun fact: **Passionate about optimizing systems to run at peak performance**
+Seasoned Data Engineer with **5+ years** building scalable, robust data platforms on both on-premise and cloud infrastructure, handling large volumes of daily transactions.
+
+Passionate about designing high-throughput ETL pipelines, streaming architectures, and data governance frameworks that power ML-driven insights and business intelligence.
+
+</td>
+<td width="50%">
+
+- 🔭 Currently at **ParallelScore Inc.**
+- 💼 **300k+ daily events** with sub-second latency
+- 📊 **99.9% pipeline reliability**
+- 🌱 **10x data volume growth** support
+- 👨‍🏫 Leading cross-functional teams
+- ⚡ **Optimizing systems** to peak performance
 
 </td>
 </tr>
