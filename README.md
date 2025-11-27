@@ -38,7 +38,7 @@ Passionate about designing high-throughput ETL pipelines, streaming architecture
 
 ## 🛠️ Tech Stack
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,spark,airflow,dbtlabs,aws,azure,gcp,postgresql,mongodb,redis,neo4j,bigquery,snowflake,python,mysql,hadoop,hive,docker,kubernetes,terraform,git,github,githubactions,grafana,tableau" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,spark,airflow,dbtlabs,aws,azure,gcp,postgresql,mongodb,redis,neo4j,bigquery,snowflake,python,mysql,hadoop,hive,docker,kubernetes,terraform,git,github,githubactions,grafana,tableau&titles=true" />
 
 ---
 
