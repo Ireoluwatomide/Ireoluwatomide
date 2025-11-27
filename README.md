@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Marvellous Akomolafe
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Marvellous%20Akomolafe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-### Data Software Engineer | Data Insights & Analytics
+<h3>Data Software Engineer | Data Insights & Analytics</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Platforms;Real-time+Processing+%26+Streaming;ETL+%7C+Data+Governance+%7C+ML+Insights)](https://git.io/typing-svg)
 
