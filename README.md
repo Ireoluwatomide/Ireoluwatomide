@@ -10,25 +10,49 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-Seasoned Data Engineer with **5+ years** building scalable, robust data platforms on both on-premise and cloud infrastructure, handling large volumes of daily transactions.
+### 🚀 Data Engineer | Platform Architect
 
-Passionate about designing high-throughput ETL pipelines, streaming architectures, and data governance frameworks that power ML-driven insights and business intelligence.
+With **<!--YEARS_START-->5+<!--YEARS_END--> years** of hands-on experience, I architect and build data platforms that process millions of events daily across on-premise and cloud infrastructure.
+
+**What I Do:**
+- Design real-time streaming pipelines using **Kafka** and **Apache Spark**
+- Build scalable ETL workflows with **Airflow** and **dbt**
+- Implement data governance frameworks for ML and analytics
+- Optimize cloud infrastructure on **AWS**, **Azure**, and **GCP**
+
+**Impact:** From zero to production-grade platforms handling **10x data volume growth** while maintaining **99.9% reliability**.
 
 </td>
-<td width="50%">
+<td width="45%">
 
-- 🔭 Currently at **[ParallelScore Inc.](https://parallelscore.com/)**
-- 💼 **Millions of daily events** with sub-second latency
-- 📊 **99.9% pipeline reliability**
-- 🌱 **10x data volume growth** support
-- 👨‍🏫 Leading cross-functional teams
-- ⚡ **Optimizing systems** to peak performance
+<br/>
+
+### 📊 Current Role
+
+<img align="right" src="https://img.shields.io/badge/ParallelScore-Data%20Engineer-4A90E2?style=for-the-badge" />
+
+**[ParallelScore Inc.](https://parallelscore.com/)**
+
+<br/>
+
+**Key Metrics:**
+
+![Events](https://img.shields.io/badge/Daily%20Events-Millions-50C878?style=flat-square&logo=databricks&logoColor=white)
+![Latency](https://img.shields.io/badge/Latency-Sub--second-50C878?style=flat-square&logo=apache-kafka&logoColor=white)
+![Reliability](https://img.shields.io/badge/Uptime-99.9%25-50C878?style=flat-square&logo=prometheus&logoColor=white)
+![Scale](https://img.shields.io/badge/Scale-10x%20Growth-50C878?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Responsibilities:**
+- 🎯 Leading cross-functional data engineering teams
+- ⚡ Architecting high-throughput data pipelines
+- 🔧 Optimizing distributed systems performance
+- 📈 Driving data-driven decision making
 
 </td>
 </tr>
