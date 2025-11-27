@@ -13,11 +13,10 @@
 ### 🚀 About Me
 
 - 🔭 Currently working at **ParallelScore Inc.** as a Data Software Engineer
-- 💼 Built enterprise-grade real-time data processing infrastructure handling **300k+ daily events** with sub-second latency
+- 💼 Built enterprise-grade real-time data processing infrastructure handling **millions of events** with sub-second latency
 - 📊 Designed comprehensive data governance frameworks ensuring **99.9% pipeline reliability**
 - 🌱 Architected scalable solutions supporting **10x data volume growth**
 - 👨‍🏫 Leading cross-functional technical teams and mentoring engineers
-- 🎓 M.Eng. in Mechanical Engineering from Covenant University
 
 ---
 
