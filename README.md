@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 With **<!--YEARS_START-->5+<!--YEARS_END--> years** of hands-on experience, I architect and build data platforms that process millions of events daily across on-premise and cloud infrastructure.
 
@@ -27,11 +27,13 @@ With **<!--YEARS_START-->5+<!--YEARS_END--> years** of hands-on experience, I ar
 **Impact:** From zero to production-grade platforms handling **10x data volume growth** while maintaining **99.9% reliability**.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
+<p align="center">
 <a href="https://parallelscore.com/">
-  <img align="right" src="https://img.shields.io/badge/ParallelScore%20Inc.-4A90E2?style=for-the-badge" alt="ParallelScore Inc." />
+  <img src="https://img.shields.io/badge/ParallelScore%20Inc.-4A90E2?style=for-the-badge" alt="ParallelScore Inc." />
 </a>
+</p>
 
 **Key Metrics:**
 
