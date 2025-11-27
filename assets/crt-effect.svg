@@ -1,0 +1,110 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- CRT Screen Effect Filters -->
+    <filter id="crt-filter">
+      <!-- Slight blur for phosphor glow -->
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.5" result="blur"/>
+
+      <!-- Color aberration -->
+      <feOffset in="blur" dx="1" dy="0" result="red"/>
+      <feOffset in="blur" dx="-1" dy="0" result="cyan"/>
+
+      <!-- Merge channels -->
+      <feBlend mode="screen" in="red" in2="cyan" result="aberration"/>
+      <feBlend mode="multiply" in="aberration" in2="SourceGraphic"/>
+    </filter>
+
+    <!-- Scanlines Pattern -->
+    <pattern id="scanlines" x="0" y="0" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1" height="2" fill="rgba(0,255,0,0.05)"/>
+      <rect x="0" y="2" width="1" height="2" fill="rgba(0,0,0,0.1)"/>
+    </pattern>
+
+    <!-- Glitch animation -->
+    <style>
+      @keyframes glitch {
+        0%, 100% { transform: translate(0); }
+        2% { transform: translate(-2px, 2px); }
+        4% { transform: translate(-2px, -2px); }
+        6% { transform: translate(2px, 2px); }
+      }
+
+      @keyframes flicker {
+        0%, 100% { opacity: 1; }
+        92% { opacity: 1; }
+        93% { opacity: 0.95; }
+        94% { opacity: 1; }
+      }
+
+      .crt-text {
+        font-family: 'Courier New', monospace;
+        font-size: 12px;
+        fill: #00ff00;
+        filter: url(#crt-filter);
+        animation: flicker 5s infinite;
+      }
+
+      .glitch-text {
+        animation: glitch 10s infinite;
+      }
+
+      .monitor-frame {
+        fill: none;
+        stroke: #333;
+        stroke-width: 20;
+        rx: 20;
+        filter: drop-shadow(0 0 10px rgba(0,0,0,0.5));
+      }
+
+      .screen-glass {
+        fill: url(#scanlines);
+        opacity: 0.5;
+      }
+    </style>
+
+    <!-- Radial gradient for CRT curvature effect -->
+    <radialGradient id="screen-curve">
+      <stop offset="0%" stop-color="rgba(0,255,0,0.02)"/>
+      <stop offset="100%" stop-color="rgba(0,255,0,0.1)"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Monitor frame -->
+  <rect class="monitor-frame" x="10" y="10" width="780" height="580"/>
+
+  <!-- Screen with scanlines -->
+  <rect class="screen-glass" x="30" y="30" width="740" height="540"/>
+
+  <!-- CRT curvature overlay -->
+  <ellipse cx="400" cy="300" rx="370" ry="270" fill="url(#screen-curve)"/>
+
+  <!-- Terminal text with CRT effect -->
+  <text x="50" y="80" class="crt-text glitch-text">
+    TERMINAL://GITHUB.PROFILE.MATRIX
+  </text>
+
+  <text x="50" y="110" class="crt-text">
+    &gt; SYSTEM INITIALIZED...
+  </text>
+
+  <text x="50" y="140" class="crt-text">
+    &gt; LOADING DATA PIPELINES...
+  </text>
+
+  <text x="50" y="170" class="crt-text">
+    &gt; CONNECTING TO KAFKA STREAMS...
+  </text>
+
+  <text x="50" y="200" class="crt-text">
+    &gt; STATUS: [████████████████████] 100%
+  </text>
+
+  <text x="50" y="230" class="crt-text">
+    &gt; READY.
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="100" y="235" width="10" height="2" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
