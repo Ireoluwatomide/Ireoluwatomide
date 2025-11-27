@@ -38,77 +38,77 @@ Passionate about designing high-throughput ETL pipelines, streaming architecture
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>⚙️ Data Engineering & Processing</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%">
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+**⚙️ Data Engineering & Processing**
 
-</details>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,spark,airflow,dbtlabs" />
 
-<details open>
-<summary><b>☁️ Cloud Platforms</b></summary>
-<br/>
+</td>
+<td width="50%">
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+**☁️ Cloud Platforms**
 
-</details>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp" />
 
-<details open>
-<summary><b>🗄️ Databases & Data Warehousing</b></summary>
-<br/>
+</td>
+</tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-</details>
+**🗄️ Databases & Warehousing**
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,neo4j,bigquery,snowflake" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+<td width="50%">
 
-</details>
+**💻 Languages**
 
-<details open>
-<summary><b>🐘 Big Data Technologies</b></summary>
-<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql" />
 
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![HBase](https://img.shields.io/badge/HBase-CC2927?style=for-the-badge&logo=apache&logoColor=white)
+</td>
+</tr>
+</table>
 
-</details>
+<table>
+<tr>
+<td width="50%">
 
-<details open>
-<summary><b>🚀 DevOps & Infrastructure</b></summary>
-<br/>
+**🐘 Big Data Technologies**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hadoop,hive" />
 
-</details>
+</td>
+<td width="50%">
 
-<details open>
-<summary><b>📊 Data Visualization & BI</b></summary>
-<br/>
+**🚀 DevOps & Infrastructure**
 
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,git,github,githubactions" />
 
-</details>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+**📊 Data Visualization & BI**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,tableau" />
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 ---
 
