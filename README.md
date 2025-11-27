@@ -1,6 +1,6 @@
 <div align="center">
 
-![Data Software Engineer](https://img.shields.io/badge/Data%20Software%20Engineer-4A90E2?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/💻%20Data%20Software%20Engineer-4A90E2?style=for-the-badge&logoColor=white" alt="Data Software Engineer" width="300"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Data+Insights+%26+Analytics;Building+Scalable+Data+Platforms;Real-time+Processing+%26+Streaming;ETL+%26+Data+Governance+%26+ML+Insights)](https://git.io/typing-svg)
 
