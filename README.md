@@ -68,36 +68,6 @@ Passionate about designing high-throughput ETL pipelines, streaming architecture
 
 ---
 
-## 🌱 Currently Learning
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/kubernetes.png" width="60"/>
-<br/>
-<b>Advanced Kubernetes</b>
-<br/>
-<sub>Container orchestration at scale</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/rust-programming-language.png" width="60"/>
-<br/>
-<b>Rust</b>
-<br/>
-<sub>Systems programming for data pipelines</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/apache-flink.png" width="60"/>
-<br/>
-<b>Apache Flink</b>
-<br/>
-<sub>Stream processing framework</sub>
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
