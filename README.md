@@ -2,32 +2,36 @@
 
 # MARVELLOUS AKOMOLAFE
 
-### Data Engineer • Pipeline Architect
+### Senior Data Engineer
 
 <p>
-  <a href="https://linkedin.com/in/marvellous-akomolafe"><img src="https://img.shields.io/badge/-Lagos,_Nigeria-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Location"/></a>
-  <a href="mailto:akomolafemarvellous@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/marvellous-akomolafe"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ireoluwatomide&color=2563EB&style=flat&label=Views" alt="Profile Views"/>
+  <a href="https://www.google.com/maps/place/Lagos,+Nigeria"><img src="https://img.shields.io/badge/Lagos,_Nigeria-gray?style=flat&logo=google-maps&logoColor=white" alt="Location"/></a>
+  <a href="mailto:akomolafemarvellous@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/marvellous-akomolafe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 </div>
 
----
+<br>
 
-<div align="center">
+<div align="center" style="background-color: #F9FAFB; padding: 24px; border-radius: 8px;">
 
-## 💼 AT A GLANCE
+**Building enterprise-scale real-time data platforms**
+Processing billions of events with sub-second latency and 99.9% uptime
 
 </div>
 
-<table align="center">
-<tr>
-<td width="33%" valign="top">
+<br>
 
-### 📊 IMPACT
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
+
+### IMPACT
+
+<br>
 
 **10M+**
 events/day
@@ -36,48 +40,39 @@ events/day
 uptime
 
 **40%**
-efficiency ↑
+efficiency improvement
 
 **5+ years**
-production
+production experience
+
+**10x**
+data volume scale
 
 </div>
 
 </td>
-<td width="33%" valign="top">
-
-### 🛠️ STACK
+<td width="50%" valign="top">
 
 <div align="center">
 
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+### EXPERTISE
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
+<br>
 
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-### 📈 ACTIVITY
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ireoluwatomide&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1F2937&icon_color=10B981&hide=contribs&count_private=true&custom_title=Stats)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ireoluwatomide&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=10B981&currStreakLabel=1F2937&dates=6B7280)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
 </div>
 
@@ -85,102 +80,46 @@ production
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## 🚀 FEATURED WORK
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Real-time IoT Platform
-
-**AWS • Spark • Kubernetes**
-
-Enterprise-scale processing for Smart City infrastructure. Hybrid cloud architecture with auto-scaling, processing 10M+ events daily.
-
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Global Talent Analytics
-
-**Airflow • Superset • Multi-region**
-
-Scalable analytics platform serving 20+ countries with real-time dashboards. 90% reduction in report generation time.
-
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Superset](https://img.shields.io/badge/-Superset-20A6C9?style=flat&logo=apache-superset&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Census Data Engine
-
-**Hadoop • PySpark • Hive**
-
-Large-scale demographic analysis processing 100GB+ datasets. 5x query performance improvement through optimization.
-
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ CLOAK Infrastructure
-
-**Terraform • Docker • K8s**
-
-Infrastructure-as-code automation solution. 50% reliability improvement through automated deployments.
-
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-<div align="center">
-
-## 🎓 CERTIFICATIONS
-
-</div>
+<br>
 
 <div align="center">
 
-| Certification | Provider | Year | Status |
-|:---|:---:|:---:|---:|
-| Professional Data Engineer | Google Cloud | 2025 | 🔄 In Progress |
-| DAG Authoring for Apache Airflow | Astronomer | 2022 | ✓ |
-| Azure Data Fundamentals | Microsoft | 2021 | ✓ |
-| Azure AI Fundamentals | Microsoft | 2021 | ✓ |
-| Associate Big Data Engineer | DASCA | 2020 | ✓ |
-| SQL for Data Science | Coursera | 2020 | ✓ |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ireoluwatomide&show_icons=true&hide=contribs&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1F2937&icon_color=2563EB&custom_title=GitHub%20Activity)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=ireoluwatomide&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=1F2937&sideLabels=1F2937&dates=6B7280&currStreakNum=1F2937&sideNums=1F2937)
 
 </div>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/ireoluwatomide/ireoluwatomide/output/snake.svg)
+### ParallelScore Inc.
+**Data Software Engineer** • May 2022 – Present
 
 </div>
+
+<br>
+
+- Architected and deployed enterprise-grade **real-time data processing infrastructure** using Apache Kafka and Spark, handling millions of events daily with sub-second latency
+
+- Designed comprehensive **data governance framework** with automated lineage tracking, ensuring 99.9% pipeline reliability across distributed systems
+
+- Led **performance optimization initiatives** that improved processing efficiency by 40% while reducing infrastructure costs through intelligent resource allocation
+
+- Scaled data platform to support **10x volume growth**, implementing auto-scaling mechanisms and fault-tolerant architectures for business-critical workflows
+
+- **Leading cross-functional engineering teams** in delivering high-throughput ETL pipelines and mentoring engineers on data platform best practices
+
+<br>
 
 ---
 
