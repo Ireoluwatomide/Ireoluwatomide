@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50C878&height=200&section=header&text=Marvellous%20Akomolafe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Software%20Engineer%20%7C%20Data%20Insights%20%26%20Analytics&descAlignY=55&descSize=18" width="100%"/>
-</div>
 
-<div align="center">
+# 👋 Hi, I'm Marvellous Akomolafe
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Data+Software+Engineer;Building+Scalable+Data+Platforms;Real-time+Processing+%26+Streaming;ETL+%7C+Data+Governance+%7C+ML+Insights)](https://git.io/typing-svg)
+### Data Software Engineer | Data Insights & Analytics
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Platforms;Real-time+Processing+%26+Streaming;ETL+%7C+Data+Governance+%7C+ML+Insights)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,26 +27,6 @@
 </div>
 
 > Seasoned Data Engineer with 5+ years building scalable, robust data platforms on both on-premise and cloud infrastructure, handling large volumes of daily transactions. Passionate about designing high-throughput ETL pipelines, streaming architectures, and data governance frameworks that power ML-driven insights and business intelligence.
-
-<br/>
-
-<div align="center">
-
-## 📑 Table of Contents
-
-[🚀 About](#-about) • [🛠️ Tech Stack](#️-tech-stack) • [🏆 Featured Projects](#-featured-projects) • [💼 Current Work](#-current-work) • [🎓 Certifications](#-certifications) • [🌱 Currently Learning](#-currently-learning) • [📊 GitHub Stats](#-github-stats) • [🤝 Let's Connect](#-lets-connect)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ireoluwatomide&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
