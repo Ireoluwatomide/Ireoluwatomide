@@ -16,8 +16,6 @@
 <tr>
 <td width="55%">
 
-### 🚀 Data Engineer | Platform Architect
-
 With **<!--YEARS_START-->5+<!--YEARS_END--> years** of hands-on experience, I architect and build data platforms that process millions of events daily across on-premise and cloud infrastructure.
 
 **What I Do:**
