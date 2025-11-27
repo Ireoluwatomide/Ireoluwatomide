@@ -114,26 +114,3 @@ I'm always interested in collaborating on data engineering projects, discussing 
 </div>
 
 ---
-
-<div align="center">
-
-### 🎯 Quick Facts
-
-**☕ Coffee Consumption:** ~5 cups/day while debugging pipelines
-**📚 Currently Reading:** Designing Data-Intensive Applications
-**🎵 Coding Playlist:** Lo-fi Hip Hop & Synthwave
-**💡 Philosophy:** *"Data is the new oil, but pipelines are the refineries"*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50C878&height=120&section=footer" width="100%"/>
-
-### ⭐ Building scalable data platforms that power intelligent decision-making ⭐
-
-*"The best data infrastructure is the one you don't have to think about"*
-
-</div>
