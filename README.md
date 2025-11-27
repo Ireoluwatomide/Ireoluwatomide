@@ -73,7 +73,7 @@ Passionate about designing high-throughput ETL pipelines, streaming architecture
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwatomide&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwatomide&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&langs_count=8&card_width=500" alt="Top Languages" width="49%" height="200" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ireoluwatomide&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50C878&text_color=FFFFFF&rank_icon=github&hide_title=true&hide_rank=false" alt="GitHub Stats" width="49%" height="200" />
