@@ -43,7 +43,7 @@ With **<!--YEARS_START-->5+<!--YEARS_END--> years** of hands-on experience, I ar
 ![Scale](https://img.shields.io/badge/Scale-10x%20Growth-50C878?style=flat-square&logo=kubernetes&logoColor=white)
 
 **Responsibilities:**
-- 🎯 Leading cross-functional data engineering teams
+- 🎯 Leading cross-functional data teams
 - ⚡ Architecting high-throughput data pipelines
 - 🔧 Optimizing distributed systems performance
 - 📈 Driving data-driven decision making
