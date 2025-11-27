@@ -72,41 +72,11 @@ Passionate about designing high-throughput ETL pipelines, streaming architecture
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ireoluwatomide&theme=algolia&hide_border=true&background=0D1117&stroke=4A90E2&ring=50C878&fire=FF6B6B&currStreakLabel=50C878" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=ireoluwatomide&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50C878&text_color=FFFFFF" width="49%" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ireoluwatomide&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50C878&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="49%" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwatomide&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
+</a>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireoluwatomide&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ireoluwatomide&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=4A90E2&line=50C878&point=FF6B6B" width="49%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-💼 **Open to Opportunities**
-
-I'm always interested in collaborating on data engineering projects, discussing big data architectures, or helping solve complex data challenges. Feel free to reach out!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvellous-akomolafe)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomolafemarvellous@gmail.com)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
