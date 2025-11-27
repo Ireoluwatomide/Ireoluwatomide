@@ -28,8 +28,6 @@ With **<!--YEARS_START-->5+<!--YEARS_END--> years** of hands-on experience, I ar
 </td>
 <td width="45%">
 
-<br/>
-
 ### 📊 Current Role
 
 <img align="right" src="https://img.shields.io/badge/ParallelScore-Data%20Engineer-4A90E2?style=for-the-badge" />
