@@ -1,8 +1,10 @@
 <div align="center">
 
-### Data Software Engineer | Data Insights & Analytics
+<h2 style="color: #4A90E2; font-size: 2.5em; font-weight: bold; margin: 5px 0;">
+  Data Software Engineer
+</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Platforms;Real-time+Processing+%26+Streaming;ETL+%7C+Data+Governance+%7C+ML+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Data+Insights+%26+Analytics;Building+Scalable+Data+Platforms;Real-time+Processing+%26+Streaming;ETL+%26+Data+Governance+%26+ML+Insights)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ireoluwatomide&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvellous-akomolafe) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomolafemarvellous@gmail.com) [![Location](https://img.shields.io/badge/Lagos-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Lagos,+Nigeria)
 
