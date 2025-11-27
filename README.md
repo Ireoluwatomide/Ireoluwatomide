@@ -38,7 +38,33 @@ Passionate about designing high-throughput ETL pipelines, streaming architecture
 
 ## 🛠️ Tech Stack
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,spark,airflow,dbtlabs,aws,azure,gcp,postgresql,mongodb,redis,neo4j,bigquery,snowflake,python,mysql,hadoop,hive,docker,kubernetes,terraform,git,github,githubactions,grafana,tableau&titles=true" />
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" title="Apache Kafka" alt="Kafka" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=spark" title="Apache Spark" alt="Spark" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" title="Apache Airflow" alt="Airflow" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dbtlabs" title="dbt (Data Build Tool)" alt="dbt" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" title="Amazon Web Services" alt="AWS" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" title="Microsoft Azure" alt="Azure" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" title="Google Cloud Platform" alt="GCP" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redis" title="Redis" alt="Redis" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" title="Neo4j" alt="Neo4j" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=bigquery" title="Google BigQuery" alt="BigQuery" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" title="Snowflake" alt="Snowflake" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" alt="Python" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hadoop" title="Apache Hadoop" alt="Hadoop" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hive" title="Apache Hive" alt="Hive" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" title="Docker" alt="Docker" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=terraform" title="Terraform" alt="Terraform" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" alt="Git" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" title="GitHub" alt="GitHub" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=grafana" title="Grafana" alt="Grafana" width="48" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" title="Tableau" alt="Tableau" width="48" height="48" />
+</p>
 
 ---
 
