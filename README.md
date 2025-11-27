@@ -23,8 +23,8 @@ Passionate about designing high-throughput ETL pipelines, streaming architecture
 </td>
 <td width="50%">
 
-- 🔭 Currently at **ParallelScore Inc.**
-- 💼 **300k+ daily events** with sub-second latency
+- 🔭 Currently at **[ParallelScore Inc.](https://parallelscore.com/)**
+- 💼 **Millions of daily events** with sub-second latency
 - 📊 **99.9% pipeline reliability**
 - 🌱 **10x data volume growth** support
 - 👨‍🏫 Leading cross-functional teams
