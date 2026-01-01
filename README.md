@@ -16,7 +16,7 @@
 <tr>
 <td width="55%" valign="top">
 
-With **<!--YEARS_START-->5+<!--YEARS_END--> years** of hands-on experience, I architect and build data platforms that process millions of events daily across on-premise and cloud infrastructure.
+With **<!--YEARS_START-->6+<!--YEARS_END--> years** of hands-on experience, I architect and build data platforms that process millions of events daily across on-premise and cloud infrastructure.
 
 **What I Do:**
 - Design real-time streaming pipelines using **Kafka** and **Apache Spark**
